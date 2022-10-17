@@ -1,0 +1,62 @@
+.top-part {
+    display: flex;
+    margin-top: 80px;
+}
+.information header {
+    font-size: 50px;
+    padding-top: 40px;
+    padding-left: 30px;
+    opacity: .7;
+    font-weight: bold;
+}
+.information h2 {
+    padding-left: 30px;
+}
+.information p {
+    padding-left: 30px;
+    font-size: larger;
+    color: darkblue;
+}
+.picture {
+    margin-left: 300px;
+}
+.middle-part {
+    display: flex;
+    margin-top: 60px;
+}
+.info-2 {
+    margin-left: 200px;
+}
+.info-2 p {
+    color: lightslategray;
+}
+.picture-2 {
+    margin-left: 30px;
+}
+.boxes {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.box-1 {
+    padding: 20px 20px 20px 20px;
+    border: 2px solid lightgray;
+}
+.box-2 {
+    padding: 20px 20px 20px 20px;
+    border: 2px solid lightgray;
+}
+.box-3 {
+    padding: 20px 20px 20px 20px;
+    border: 2px solid lightgray;
+    margin-right: 30px;
+}
+.bottom-part {
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+.footer {
+    margin-left: 30px;
+}
